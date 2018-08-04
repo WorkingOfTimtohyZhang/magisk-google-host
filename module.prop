@@ -1,7 +1,7 @@
-id=template
-name=Template Module
+id=hosts-cn-timothy
+name=Google Hosts
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=timothy_zhang
+description=module to replace hosts file to access to google service
 minMagisk=1500
